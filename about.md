@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I've always loved problem solving and technology. For this reason I'm interested in Computer Science and it's advancement. So, when I moved to Meadville PA to start undergrad., what better to study than Computer Science? Before Meadville, I moved all over and grew up all over the USA. Throughout grade-school, I lived in Rochester NY, Fort Knox KY, Mechanicsburgh PA, St. Louis MO, and Seattle WA.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I enjoy, music, skiing, sailing, ultimate frisbee, watching the ball game, and lawn games/hanging out with friends and family.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jonesm2@allegheny.edu](mailto:jonesm2@allegheny.edu)
