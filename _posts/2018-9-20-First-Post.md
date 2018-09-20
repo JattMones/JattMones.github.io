@@ -9,9 +9,8 @@ Hi, my name is Matt Jones and I'm an aspiring computer scientist at Allegheny Co
 Other courses have taught me that computer science "depends" on what you're working with. Data analytics is obviously applicable here(what is the trend in this specific set of data, how do these trends directly relate to our problems), but other courses such as programming languages taught me the importance of picking the right type of programming language to use for your problem. Other classes taken includes (but not limited to): Algorithm Analysis, Computer Organization, Comp Sci 1&2, Linear Algebra, other classes in calculus, physics, and music.
 
 **Related Work**
-Other work: Summer work 2018. I've helped build a python webscraper which scrapes different websites, collects data, and organizes it into a spreadsheet for a user to read and analyze. Currently, I am researching automating user key strokes and clicks for my senior project.
-_Links:_
-[Senior Research](https://sites.google.com/allegheny.edu/automating-user-actions)
+Other work: Summer work 2018. I've helped build a python webscraper which scrapes different websites, collects data, and organizes it into a spreadsheet for a user to read and analyze. Currently, I am researching automating user key strokes and clicks for my 
+[Senior Project](https://sites.google.com/allegheny.edu/automating-user-actions)
 
 **About Me**
 More about me: I enjoy, music, skiing, sailing, ultimate frisbee, watching the ball game, and lawn games/hanging out with friends and family.
