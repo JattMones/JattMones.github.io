@@ -7,7 +7,7 @@ Hi, my name is Matt Jones and I'm an aspiring computer scientist at Allegheny Co
 
 **I want to work for:**
 
-![](you.jpg)
+![](you.png)
 
 
 View Coverletter and Resume
