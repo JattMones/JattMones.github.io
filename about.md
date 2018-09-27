@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Frisbee](UltimateBro.png)
+![](UltimateBro.png)
+
 ![](music.png)
+
 ![](Error.png)
 I've always loved problem solving and technology. For this reason I'm interested in Computer Science an  d it's advancement. So, when I moved to Meadville PA to start undergrad., what better to study than Computer Science? Before Meadville, I moved all over and grew up all over the USA. Throughout grade-school, I lived in Rochester NY, Fort Knox KY, Mechanicsburgh PA, St. Louis MO, and Seattle WA.
 
