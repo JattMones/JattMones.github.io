@@ -15,3 +15,5 @@ I enjoy music, skiing, sailing, ultimate frisbee, watching ball games, and lawn 
 ### Contact me
 
 [jonesm2@allegheny.edu](mailto:jonesm2@allegheny.edu)
+
+[Return Home](https://mattjonesofficial.netlify.com/)
